@@ -62,7 +62,7 @@
     "gulp-open": "^2.0.0",
     "gulp-rename": "^1.2.2",
     "gulp-size": "^2.1.0",
-    "gulp-uglify": "^2.0.0",
+    "gulp-uglify": "^3.0.2",
     "handlebars-helpers": "^0.7.3",
     "helper-markdown": "^0.2.1",
     "helper-md": "^0.2.1",
